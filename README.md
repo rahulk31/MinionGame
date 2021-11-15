@@ -4,7 +4,7 @@
 `API used: https://api.funtranslations.com/translate/minion.json`
 
 ### A Screenshot of the App
-[!link]("./Asset/ss.png")
+![link](https://github.com/rahulk31/MinionGame/blob/main/Asset/ss.png)
 
 
-> Live at: [!link](https://miniongame-rahul.netlify.app/)
+> Live at: ![link](https://miniongame-rahul.netlify.app/)
