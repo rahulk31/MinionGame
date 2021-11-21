@@ -44,13 +44,14 @@ img {
 #engtxt, #miniontxt {
     border: 1px dashed var(--orange);
     border-radius: 15px;
-    width: 80%;
+    max-width: 80%;
     display: block;
     margin: 1rem auto;
     background-color: rgb(2, 19, 41);
     padding: 1.5rem 1rem;
     color: var(--blue);
-    font-size: 16px;
+    font-size: 25px;
+    height: 200px;
 }
 
 #miniontxt {
