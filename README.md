@@ -7,4 +7,4 @@
 ![link](https://github.com/rahulk31/MinionGame/blob/main/Asset/ss.png)
 
 
-> Live at: ![link](https://miniongame-rahul.netlify.app/)
+https://miniongame-rahul.netlify.app/
